@@ -1,0 +1,135 @@
+.body-align
+{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+.division-1
+{
+	color: darkblue;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: Verdana;
+	text-transform: uppercase;
+}
+.top-h
+{
+	font-size: 13px;
+}
+.square
+{
+	font-size: 12px !important;
+	margin: 20px !important;
+	background:transparent !important;
+	padding: 1px 4px;
+	text-align: center;
+	border-radius: 40px;
+	border:1px solid grey !important;
+}
+.background
+{
+	background-color:rgba(192,234,237,0.6);
+    padding: 15px;
+    width: 380px;
+}
+.background-2,.background-3,.background-4,.background-5
+{
+	background-color:transparent;
+    padding: 0px;
+    width: 380px;
+}
+.background-6
+{
+	background-color:transparent;
+    padding: 0px;
+    width: 380px;
+}
+.background-4
+{
+	padding-bottom: 10px;
+	border-bottom: 1px solid #CCC;
+}
+.set-alignment
+{
+	padding: 15px 0px;
+}
+#set-label
+{
+	color: blue;
+	font-family: century gothic;
+	font-size: 12px;
+}
+#set-color
+{
+	color: #AAA;
+	font-family: Calibri Light;
+	font-size: 18px;
+}
+#set-color-2
+{
+	color: grey;
+	font-family: Calibri Light;
+	font-size: 16px;
+	text-transform: uppercase;
+}
+#set-color-1
+{
+	color: #AAA;
+	font-family: Calibri Light;
+	font-size: 14px;
+}
+#set-round
+{
+	background: #f0f0f0;
+	padding: 2px 6px;
+	border-radius: 30px;
+	text-align: center;
+	margin: 2px 4px;
+}
+#set-span
+{
+	text-transform: uppercase;
+	font-family: Century gothic;
+	font-weight: 600;
+}
+.button
+{
+	border:1px solid #AAA;
+	padding: 8px 20px;
+	margin: 15px 0px;
+	border-radius: 7px;
+}
+.button a
+{
+ color: #777;
+ text-transform: capitalize;
+ text-decoration: none;
+}
+.fa-apple
+{
+	text-transform: uppercase;
+	font-family: Calibri Light;
+	font-weight: 600;
+	color: #000;
+	font-size: 25px !important;
+}
+.large
+{
+	font-size: 20px;
+	color: #000;
+}
+
+.checkout
+{
+	background: blue;
+	padding: 12px 20px;
+	margin: 2px 0px;
+	border-radius: 7px;
+}
+.checkout a
+{
+ color: #fff;
+ text-transform: capitalize;
+ text-decoration: none;
+ text-transform: uppercase;
+}
